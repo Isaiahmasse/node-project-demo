@@ -1,0 +1,31 @@
+{
+  "name": "node-project-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isaiahmasse/node-project-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isaiahmasse/node-project-demo/issues"
+  },
+  "homepage": "https://github.com/Isaiahmasse/node-project-demo#readme",
+  "dependencies": {
+    "api": "^1.0.0",
+    "axios": "^0.18.0",
+    "band": "0.0.0",
+    "dotenv": "^7.0.0",
+    "in": "^0.14.0",
+    "moment": "^2.24.0",
+    "omdb": "^0.8.0",
+    "spotifyapi": "^1.0.0",
+    "town": "^0.1.0"
+  }
+}
